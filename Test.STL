@@ -5,7 +5,7 @@ solid Test
          vertex 7.611930e+002 1.109499e+002 1.610854e+001
          vertex 7.464610e+002 1.109499e+002 1.401516e+001
       endloop
-   endfacet
+   endfacet 
    facet normal 0.000000e+000 1.000000e+000 0.000000e+000
       outer loop
          vertex 7.464610e+002 1.109499e+002 1.401516e+001
